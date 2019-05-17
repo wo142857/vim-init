@@ -130,6 +130,8 @@ set formatoptions+=B
 " 文件换行符，默认使用 unix 换行符
 set ffs=unix,dos,mac
 
+" 删除行末空格
+autocmd BufWritePre * %s/\s\+$//e
 
 "----------------------------------------------------------------------
 " 设置代码折叠
