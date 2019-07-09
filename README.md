@@ -67,6 +67,7 @@ source ~/.vim/vim-init/init.vim
     Ctrl + j/k 选择
     Ctrl + x/v 水平/垂直打开文件
 ```
+
 * NERDTree
 ```
     Space + nn 打开侧边栏
@@ -75,6 +76,14 @@ source ~/.vim/vim-init/init.vim
     u 上一层目录
     i/v 水平/垂直打开
     o 打开
+```
+
+* Others
+```
+    * 定位至当前光光标所指单词的下一次出现的地方
+    # 定位至当前光光标所指单词的上一次出现的地方
+    n 定位至跳至已被标记出的单词下一次出现的地方
+    shift+n 定位至跳至已被标记出的单词上一次出现的地方
 ```
 
 TODO
