@@ -61,16 +61,20 @@ source ~/.vim/vim-init/init.vim
 
 # Keymaps
 * Ctrlp
+```
     Ctrl + n 打开最近打开文件
     Ctrl + p 打开当前目录下文件
     Ctrl + j/k 选择
     Ctrl + x/v 水平/垂直打开文件
+```
 * NERDTree
+```
     Space + nn 打开侧边栏
     Space + no 返回到侧边栏
 
     u 上一层目录
     i/v 水平/垂直打开
     o 打开
+```
 
 TODO
