@@ -615,4 +615,4 @@ let g:ycm_filetype_whitelist = {
 " 语法高亮
 
 " 预览
-Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
+" Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
