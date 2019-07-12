@@ -612,5 +612,7 @@ let g:ycm_filetype_whitelist = {
 "----------------------------------------------------------------------
 " markdown
 "----------------------------------------------------------------------
-Plug 'godlygeek/tabular'
-Plug 'plasticboy/vim-markdown'
+" 语法高亮
+
+" 预览
+Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
